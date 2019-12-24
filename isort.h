@@ -1,0 +1,6 @@
+
+void print_array(int *data, int n);
+void shift_element(int *arr, int *i);
+void insertion_sort(int *arr, int len);
+
+
